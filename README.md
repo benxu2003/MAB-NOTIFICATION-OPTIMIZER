@@ -24,7 +24,7 @@ Make sure you have Python 3.7+ installed on your system.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/mab-notification-optimizer.git
+   git clone https://github.com/benxu2003/mab-notification-optimizer.git
    cd mab-notification-optimizer
    ```
 
